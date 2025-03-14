@@ -29,12 +29,12 @@
 ## PANEL
   1. If you don't have an account in PANEL, create one and deploy.
     <br>
-    <a href='https://bot-hosting.net/?aff=1301164198578880692' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1301164198578880692' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
 
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://github.com/cjay-ke/Lethabo-xmd' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://github.com/cjay-ke/Lethabo-xmd' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=pink'/></a>
 
 -------
   
@@ -42,5 +42,5 @@
 
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=pink'/></a>
     
