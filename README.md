@@ -24,15 +24,5 @@
    
 <a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
-## FOR ONE TAP DEPLOYMENT 
-
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
-   
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
-
-   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
-
- <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
  ## 𝗣𝗔𝗡𝗘𝗟 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
- 
+  [![nima](https://img.shields.io/badge/DEPLOYONOPTLINK-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/cjay-ke/Lethabo-xmd)
