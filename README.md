@@ -26,7 +26,7 @@
 
  ## OPTILINK 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
   [![nima](https://img.shields.io/badge/DEPLOYONOPTLINK-430098?style=for-the-badge&logo=Discord&logoColor=white&buttcode=1n2i3m4a)](https://optiklink.com/index?template=https://github.com/cjay-ke/Lethabo-xmd)
-
+## PANEL
   1. If you don't have an account in PANEL, create one and deploy.
     <br>
     <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
@@ -34,11 +34,9 @@
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github//caseyweb/QUEEN-CHARITY' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://github.com/cjay-ke/Lethabo-xmd' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
---------
-
-
+-------
   
 ### DEPLOY ON RENDER
 
