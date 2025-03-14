@@ -29,7 +29,7 @@
 ## PANEL
   1. If you don't have an account in PANEL, create one and deploy.
     <br>
-    <a href='https://control.bot-hosting.net/auth/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1301164198578880692' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
 
 ### DEPLOY ON REPLIT
 1. Deploy.
